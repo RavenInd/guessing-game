@@ -1,3 +1,4 @@
+//my first GuessingGame
 class GuessingGame {
     constructor() {
       this.min = null;
